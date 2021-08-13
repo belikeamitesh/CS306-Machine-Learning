@@ -8,5 +8,3 @@
 
 ## Projects 
 
-* Handwritten Pattern Recognition
-* 
