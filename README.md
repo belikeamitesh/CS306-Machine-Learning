@@ -11,6 +11,3 @@ Contains Files of Lab Assignments Including Topics -
 ## Project
 - ML Based Approaches in Stock Monitoring (Regression)
 - Dataset - https://archive.ics.uci.edu/ml/datasets/Stock+portfolio+performance#
-
-## Projects 
-ANN Based Classification in Stock Monitoring
